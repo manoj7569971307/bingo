@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OCR Auto Clicker</string>
+    <string name="accessibility_service_description">Reads numbers from screen and performs automatic clicks</string>
+</resources>
